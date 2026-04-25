@@ -1,37 +1,95 @@
 # Hi 👋, I'm Mahmoud Mohamed Abdelaziz
+### 📊 Passionate Data Analyst & Business Intelligence Enthusiast
 
-### A passionate Data Analyst
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudElMahdi&label=Profile views&color=0e75b6&style=flat" alt="MahmoudElMahdi" /> </p>
-
-
-- 🔭 I'm currently working on **An advanced data analysis project using SQL**
-
-- 🌱 I'm currently learning **Advanced Power BI and mathematics for Data Science**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 💬 Ask me about **Excel, SQL, Python, Data Analysis, Data Visualization, and Power BI**
-
-- 📫 How to reach me **mahmoud.ilmahdy1@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://mahmoud-elmahdy.vercel.app/](https://mahmoud-elmahdy.vercel.app/)**
-
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/mahmoud-il-mahdy/](https://www.linkedin.com/in/mahmoud-il-mahdy/)**
-
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1zHtNz23zyBJLSDdWt99LHN294vrTuAAziIp-z8Riirg/edit?usp=sharing](https://docs.google.com/document/d/1zHtNz23zyBJLSDdWt99LHN294vrTuAAziIp-z8Riirg/edit?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/MahmoudElMahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MahmoudElMahdi" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/mahmoud-il-mahdy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Elmahdy" height="30" width="40" /></a> <a href="https://medium.com/@mahmoud.ilmahdy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mahmoud Elmahdy" height="30" width="40" /></a>
+<a href="https://github.com/MahmoudElMahdi">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudElMahdi&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudElMahdi" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+---
 
+### 💫 About Me
+- 🔭 **Current Focus:** Developing advanced data analysis solutions using SQL and Python.
+- 🌱 **Learning:** Mastering Advanced Power BI, DAX, and Statistical Mathematics for Data Science.
+- 👯 **Collaboration:** Open to contributing to open-source data projects and collaborative research.
+- 💬 **Ask me about:** Excel (VBA/Power Query), SQL, Python, Power BI, and Data Storytelling.
+- 📫 **Reach me:** [mahmoud.ilmahdy1@gmail.com](mailto:mahmoud.ilmahdy1@gmail.com)
+
+---
+
+### 🛠️ Languages and Tools
+
+**Data Analysis & Visualization**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=flat&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/German_B2-orange?style=flat&logo=google-translate&logoColor=white" alt="German B2" />
+</p>
+
+**Databases & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+**Development & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**🧠 Soft Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem_Solving-8E44AD?style=flat&logo=kaggle&logoColor=white" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Communication-2980B9?style=flat&logo=googlemessages&logoColor=white" alt="Communication" />
+  <img src="https://img.shields.io/badge/Teamwork-27AE60?style=flat&logo=microsoftteams&logoColor=white" alt="Teamwork" />
+  <img src="https://img.shields.io/badge/Analytical_Thinking-E67E22?style=flat&logo=googleanalytics&logoColor=white" alt="Analytical Thinking" />
+  <img src="https://img.shields.io/badge/Time_Management-C0392B?style=flat&logo=googlecalendar&logoColor=white" alt="Time Management" />
+</p>
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/mahmoud-il-mahdy/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@mahmoud.ilmahdy1" target="blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://mahmoud-elmahdy.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+</p>
+
+---
+
+### 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudElMahdi&show_icons=true&locale=en&layout=compact" alt="MahmoudElMahdi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudElMahdi&show_icons=true&locale=en" alt="MahmoudElMahdi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudElMahdi&" alt="MahmoudElMahdi" /></p>
+
+---
+
+### 📄 Professional Links
+* 🌐 **Portfolio:** [Visit My Website](https://mahmoud-elmahdy.vercel.app/)
+* ✍️ **Articles:** [Read on LinkedIn](https://www.linkedin.com/in/mahmoud-il-mahdy/)
+* 💼 **Resume:** [View Full Experiences](https://docs.google.com/document/d/1zHtNz23zyBJLSDdWt99LHN294vrTuAAziIp-z8Riirg/edit?usp=sharing)
+
+
+
 
