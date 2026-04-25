@@ -23,9 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/MahmoudElMahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MahmoudElMahdi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahmoud-il-mahdy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Elmahdy" height="30" width="40" /></a>
-<a href="https://medium.com/@mahmoud.ilmahdy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mahmoud Elmahdy" height="30" width="40" /></a>
+<a href="https://github.com/MahmoudElMahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MahmoudElMahdi" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/mahmoud-il-mahdy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Elmahdy" height="30" width="40" /></a> <a href="https://medium.com/@mahmoud.ilmahdy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mahmoud Elmahdy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
