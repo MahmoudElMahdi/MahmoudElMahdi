@@ -18,6 +18,14 @@
 
 ---
 
+### 💼 Experience & Featured Projects
+* **Freelance Data Analyst (3+ Years):** Delivering customized data analysis, ETL pipelines, and interactive dashboard services to clients via platforms like Khamsat and Mostaql.
+
+### 🏆 Education 
+* **B.Sc. in Management Information Systems (MIS)** — *Alexandria University (Grade: Very Good, Graduated 2022)*
+
+---
+
 ### 🛠️ Languages and Tools
 
 **Data Analysis & Visualization**
@@ -89,7 +97,3 @@
 * 🌐 **Portfolio:** [Visit My Website](https://mahmoud-elmahdy.vercel.app/)
 * ✍️ **Articles:** [Read on LinkedIn](https://www.linkedin.com/in/mahmoud-il-mahdy/)
 * 💼 **Resume:** [View Full Experiences](https://docs.google.com/document/d/1zHtNz23zyBJLSDdWt99LHN294vrTuAAziIp-z8Riirg/edit?usp=sharing)
-
-
-
-
